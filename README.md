@@ -1,4 +1,4 @@
-# Hi 👋, I'm Erik gonçalves
+# Hi 👋, I'm Erik Gonçalves
 
 🚀 *Technologist in Systems Analysis and Development | Python Specialist  
 🇧🇷 Brazil
