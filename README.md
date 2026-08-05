@@ -14,7 +14,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/tomeerik139-a11y">
-    <img src="https://img.shields.io/badge/GitHub-tomeerik139-a11y-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/ tomeerik139-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/Erik7xis">
     <img src="https://img.shields.io/badge/Instagram-@Erik7xis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -61,8 +61,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-master-anuraghazra1.vercel.app/api?username=tomeerik139-a11y&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-master-anuraghazra1.vercel.app/api/top-langs/?username=tomeerik139-a11y&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-rouge-two-30.vercel.app/api?username=tomeerik139-a11y&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-rouge-two-30.vercel.app/api/top-langs/?username=tomeerik139-a11y&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -76,18 +76,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
-<!--
-**tomeerik139-a11y/tomeerik139-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
